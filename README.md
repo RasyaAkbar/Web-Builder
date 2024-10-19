@@ -20,4 +20,5 @@ If you want to reproduce the web application you need:
 5. Initialize ShadCN UI in the environment
 
 SAAS Architecture was made by: https://github.com/webprodigies
+
 Payment features and Web building editor was made by: Me
