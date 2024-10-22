@@ -12,7 +12,7 @@ const HomeClientComponent = () => {
         <p className="text-center">Run your agency, in one place</p>
         <div className="bg-gradient-to-r from-primary to-secondary-foreground text-transparent bg-clip-text relative">
           <h1 className="text-9xl font-bold justify-center text-center md:text-[150px] ">
-            Plura
+            Web Builder
           </h1>
         </div>
         <div className="flex justify-center items-center relative md:mt-[-70px] ">
